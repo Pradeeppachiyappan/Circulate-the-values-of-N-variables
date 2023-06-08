@@ -20,8 +20,8 @@ call the function with function name
 ## Program:
 ```
 '''
-ref No:212222240073
-name: p.pradeep raj
+Register No:212222240073
+Developed By: p.pradeep raj
 '''
 def circulate():
     ci=l[n:]+l[:n]
